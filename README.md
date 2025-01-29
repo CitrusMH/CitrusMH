@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui você vai encontrar um pouco sobre mim e
 
 - 🔭 Atualmente, estou trabalhando na BeeCloud Solutions com Desenvolvimento Web.
 - 🌱 Estou sempre aprendendo e me desenvolvendo em várias áreas da programação.
-- 📫 Como me contatar: [Email](klamatheus@hotmail.com) / [Linkedin](https://www.linkedin.com/in/matheus-melo-867a84186/) / +55 (19) 99505-4678
+- 📫 Como me contatar: klamatheus@hotmail.com / [Linkedin](https://www.linkedin.com/in/matheus-melo-867a84186/) / +55 (19) 99505-4678
 
 ### 🌐 Tecnologias e Ferramentas
 
